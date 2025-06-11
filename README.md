@@ -29,7 +29,7 @@ return 0;
 - Pull 실습 코드
 ```markdown
 # 깃허브 Pull 연습용 코드
-``````C
+```C
 #include <stdio.h>
 int main()
 {
